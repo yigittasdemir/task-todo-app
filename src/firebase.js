@@ -26,13 +26,13 @@ import { openModal } from "./store/modal";
 import { setTodos } from "./store/todos";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyArfg2fZrubmSCnEKtviMp_9_R030ud9Wc",
-  authDomain: "tasks-eb635.firebaseapp.com",
-  projectId: "tasks-eb635",
-  storageBucket: "tasks-eb635.appspot.com",
-  messagingSenderId: "6292738824",
-  appId: "1:6292738824:web:631a8948ef49dff77e12bd",
-  measurementId: "G-YH4JTHCQYH",
+  apiKey: "*******",
+  authDomain: "*******",
+  projectId: "*******",
+  storageBucket: "*******",
+  messagingSenderId: "*******",
+  appId: "*******",
+  measurementId: "*******",
 };
 
 const app = initializeApp(firebaseConfig);
